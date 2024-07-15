@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paycoo-droid
 - 👀 I’m interested in ...technology
-- 🌱 I’m currently learning ...deep tech, alien tech
+- 🌱 I’m currently learning ...Deep tech, Alien tech
 - 💞️ I’m looking to collaborate on ...supply chain projects
 - 📫 How to reach me ...You don't but if you do, i'd love it
 - 😄 Pronouns: ...He/Him
