@@ -10,3 +10,4 @@
 paycoo-droid/paycoo-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Building Guardian IO - Multiplanetary global & Healthy ethical systems for a green world
