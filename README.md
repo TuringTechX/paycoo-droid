@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paycoo-droid || or Gene name is Eugene
+- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block
 - 👀 I’m interested in ...technology
 - 🌱 I’m currently learning ...Deep tech, Alien tech
 - 💞️ I’m looking to collaborate on ...supply chain projects
