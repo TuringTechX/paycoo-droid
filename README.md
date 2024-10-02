@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block || MetaOne: The Humanverse
+- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block || MetaOne: The Humanverse || Amazon TerraFlow || X-Titan: Project Genesis
 - 👀 I’m interested in ...technology
 - 🌱 Building Gaurdian-IO, Nexus Tech, etc
 
