@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block
+- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block || MetaOne: The Humanverse
 - 👀 I’m interested in ...technology
 - 🌱 Building Gaurdian-IO, Nexus Tech, etc
 
