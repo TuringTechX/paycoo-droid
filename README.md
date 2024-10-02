@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block || MetaOne: The Humanverse || Amazon TerraFlow || X-Titan: Project Genesis
+- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block FAANG innovation || MetaOne: The Humanverse || Amazon TerraFlow || X-Titan: Project Genesis || Google Gaia
 - 👀 I’m interested in ...technology
 - 🌱 Building Gaurdian-IO, Nexus Tech, etc
 
