@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @paycoo-droid | Welcome to the Innovation Block FAANG innovation || MetaOne: The Humanverse || Amazon TerraFlow || X-Titan: Project Genesis || Google Gaia || Apple Elysium || Microsoft Aether
-- 👀 I’m interested in ...technology
-- 🌱 Building Gaurdian-IO, Nexus Tech, etc
 
 <!---
 paycoo-droid/paycoo-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -87,7 +84,7 @@ Hi there! I'm **Eugene Ochako**, a passionate **MEVN Stack Developer** based in 
 
 ## 💬 Let's Collaborate
 
-| **💻 Technologies I’m Exploring** | **🚀 Open to Work With** | **❌ Not Interested** |
+| **💻 Technologies I’m Exploring** | **🚀 Open to Work With** | **❌ Not Interested but Learning** |
 |----------------------------------|-------------------------|----------------------|
 | Laravel, Python, Microservices   | GCP, Kubernetes, Azure  | Java, Angular         |
 
