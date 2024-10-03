@@ -29,7 +29,7 @@ Hi there! I'm **Eugene Ochako**, a passionate **MEVN Stack Developer** based in 
 
 | **Project**      | **Description**                                                                                      | **Tech Stack**                               | **Status**  |
 |------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|
-| **Gaurdian-IO**  | Wildlife security & Anti-Slavery System | Next-gen security system.                                   | Vue.js 3, Nuxt.js 3, Node.js, MongoDB        | 🚀 In-Dev   |
+| **Gaurdian-IO**  | Wildlife security & Anti-Slavery System, Next-gen security system.                                   | Vue.js 3, Nuxt.js 3, Node.js, MongoDB        | 🚀 In-Dev   |
 | **Nexus Tech**   | Building the future of connected devices with cutting-edge microservices architecture.                | Node.js, Express.js, AWS, Docker             | ✅ Released |
 | **MetaOne**      | Humanverse platform – an integrated ecosystem for metaverse explorers and creators.                   | Nuxt.js 3, Vuex, Pinia, Firebase             | 🔄 Ongoing  |
 | **Amazon TerraFlow** | AI-driven eCommerce optimization platform built with data flow automation.                         | Node.js, Express.js, MongoDB, Firebase       | 🔄 Ongoing  |
