@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 👾 Senior Frontend Wizard | 🎩 Full-Stack Innovator
+## 👾 Senior Frontend Engineer | 🎩 Full-Stack Innovator
 
 ### 💡 About Me
 Hi there! I'm **Eugene Ochako**, a passionate **MEVN Stack Developer** based in **Kenya, Nakuru** sometimes **Nairobi** 🇹🇷.
