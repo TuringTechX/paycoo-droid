@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 ### 💡 About Me
 Hi there! I'm **Eugene Ochako**, a passionate **MEVN Stack Developer** based in **Kenya, Nakuru** sometimes **Nairobi** 🇹🇷.
 
+POV: Take Caution in using Innovation to invest in countries with high levels of corruption 
+
 - 💻 Graduating in **Business and Information Technology** from **Strathmore University** in 2024.
 - 💻 Self-Taught & Learning in **Computer Science and Engineering** from **Strathmore University** & Open-source.
 - 🧑‍💻 Over a decade of experience from **Classic ASP** to cutting-edge **Vue.js**.
