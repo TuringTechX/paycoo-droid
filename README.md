@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ## 👾 Senior Frontend Engineer | 🎩 Full-Stack Innovator
 
 ### 💡 About Me
-Hi there! I'm **Eugene Ochako**, a passionate **MEVN Stack Developer** based in **Kenya, Nakuru** sometimes **Nairobi** 🇹🇷.
+Hi there! I'm **Eugene Ochako**, a passionate software engineer
 
 
 - 💻 Graduating in **Business and Information Technology** from **Strathmore University** in 2024.
