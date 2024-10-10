@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ### 💡 About Me
 Hi there! I'm **Eugene Ochako**, a passionate software engineer
 
--Remote jobs are cool
+-Remote jobs are cool, just measure your employee's performance
 
 - 💻 Graduating in **Business and Information Technology** from **Strathmore University** in 2024.
 - 💻 Self-Taught & Learning in **Computer Science and Engineering** from **Strathmore University** & Open-source.
