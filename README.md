@@ -5,11 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m @Gene
 
-## 🚀 Welcome to the Innovation Block 🚀
-| **🚩 FAANG Innovations** | [![MetaOne](https://img.shields.io/static/v1?label=MetaOne&message=The%20Humanverse&color=blue&style=for-the-badge)](https://metaone-humanverse.com) • [![Amazon TerraFlow](https://img.shields.io/static/v1?label=Amazon%20TerraFlow&message=AI%20eCommerce&color=orange&style=for-the-badge)](https://amazon-terraflow.com) • [![X-Titan](https://img.shields.io/static/v1?label=X-Titan&message=Project%20Genesis&color=green&style=for-the-badge)](https://x-titan-genesis.com) • [![Google Gaia](https://img.shields.io/static/v1?label=Google%20Gaia&message=Innovation&color=red&style=for-the-badge)](https://google-gaia.com) • [![Apple NeuraSphere](https://img.shields.io/static/v1?label=Apple%20NeuraSphere&message=Mind%20Meets%20Machine&color=black&style=for-the-badge)](https://apple-neurasphere.com) • [![Microsoft Aether](https://img.shields.io/static/v1?label=Microsoft%20Aether&message=Cloud%20AI&color=lightblue&style=for-the-badge)](https://microsoft-aether.com) • [![NVIDIA Celestial](https://img.shields.io/static/v1?label=NVIDIA%20Celestial&message=AI%20Simulation&color=limegreen&style=for-the-badge)](https://nvidia-celestial.com) •
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
 ---
 
 ## 👾 Senior Frontend Engineer | 🎩 Full-Stack Innovator
@@ -34,7 +29,7 @@ Hi there! I'm **Eugene Ochako**, a passionate software engineer
 | **Gaurdian-IO**  | Wildlife security & Anti-Slavery System, Next-gen security system.                                   | Vue.js 3, Nuxt.js 3, Node.js, MongoDB        | 🚀 In-Dev   |
 | **Nexus Tech**   | Building the future of connected devices with cutting-edge microservices architecture.                | Node.js, Express.js, AWS, Docker             | ✅ Released |
 | **MetaOne**      | Humanverse platform – an integrated ecosystem for metaverse explorers and creators.                   | Nuxt.js 3, Vuex, Pinia, Firebase             | 🔄 Ongoing  |
-| **Amazon TerraFlow** | AI-driven eCommerce optimization platform built with data flow automation.                         | Node.js, Express.js, MongoDB, Firebase       | 🔄 Ongoing  |
+| **Aeon       **  | Climate Change App.                         | Node.js, Express.js, MongoDB, Firebase       | 🔄 Ongoing  |
 
 ---
 
